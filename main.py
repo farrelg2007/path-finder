@@ -3,7 +3,7 @@
 PROJECT    : Implementasi Algoritma Dijkstra untuk Peta Kota
 MATAKULIAH : Struktur Data
 DOSEN      : Ibu Kartini
-MAHASISWA  : Farrel Gian
+MAHASISWA  : Farrel Gian, Francesko Efhraim, Muhammad Fauzan, Deva Bagus Pramodya
 UNIVERSITAS: Universitas Esa Unggul
 ====================================================================
 
@@ -172,7 +172,7 @@ def main():
         print("6. Muat Peta")
         print("7. Keluar")
 
-        pilihan = input("\nPilih menu (1-6): ")
+        pilihan = input("\nPilih menu (1-7): ")
 
         if pilihan == '1':
             tambah_titik()
